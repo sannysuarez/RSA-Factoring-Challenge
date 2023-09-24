@@ -1,2 +1,1 @@
-# RSA-Factoring-Challenge
-RSA- Factoring challenge
+RSA Factoring Challenge
